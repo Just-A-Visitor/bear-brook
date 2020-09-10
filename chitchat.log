@@ -1,0 +1,7 @@
+ERROR 2015/11/27 23:47:46 utils.go:100: dial tcp [::1]:5432: getsockopt: connection refused Cannot find user
+ERROR 2015/11/27 23:48:03 utils.go:100: dial tcp [::1]:5432: getsockopt: connection refused Cannot create user
+ERROR 2015/11/27 23:48:11 utils.go:100: dial tcp [::1]:5432: getsockopt: connection refused Cannot find user
+ERROR 2015/11/27 23:48:39 utils.go:100: pq: database "chitchat" does not exist Cannot find user
+ERROR 2015/11/27 23:48:51 utils.go:100: pq: database "chitchat" does not exist Cannot create user
+ERROR 2015/11/27 23:48:56 utils.go:100: pq: database "chitchat" does not exist Cannot find user
+WARNING 2015/11/28 08:41:08 utils.go:105: <nil> Failed to get cookie
